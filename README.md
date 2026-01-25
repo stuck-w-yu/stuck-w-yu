@@ -47,7 +47,7 @@ Seorang pengembang yang antusias dengan ketertarikan luas pada **Fullstack Web D
 * Juga berpengalaman membuat Discord Bots!
 
 ---
-
+ 
 ### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=stuck-w-yu&show_icons=true&theme=radical&count_private=true" height="180" alt="stuck-w-yu's Stats" />
