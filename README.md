@@ -1,5 +1,5 @@
 # Hi there, I'm stuck-w-yu! 👋
-
+ 
 Seorang pengembang yang antusias dengan ketertarikan luas pada **Fullstack Web Development**, **Machine Learning**, dan **Network Infrastructure**. Saya senang membangun aplikasi yang kompleks, mulai dari sistem Point of Sale (POS) hingga model prediksi berbasis AI.
 
 ---
