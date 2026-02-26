@@ -27,7 +27,7 @@ Seorang pengembang yang antusias dengan ketertarikan luas pada **Fullstack Web D
 ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
 
-**Network & Infrastructure**<br/>
+**Network & Infrastructure **<br/>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![MikroTik](https://img.shields.io/badge/MikroTik-CD3035?style=for-the-badge&logo=MikroTik&logoColor=white)
