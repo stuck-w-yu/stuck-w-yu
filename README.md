@@ -1,72 +1,69 @@
+# 🌌 > SYSTEM.INIT("Wahyu Firmansyah");
+
 <div align="center">
-  <h1>Hi there, I'm Yu! 👋</h1>
-  <p><strong>Front-end Developer | Informatics Engineering Student | Tech Enthusiast</strong></p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=>+Hello,+World!+I'm+Yu.;>+Informatics+Engineering+Student.;>+Fullstack+Dev+%7C+Network+Enthusiast.;>+Machine+Learning+%7C+Linux+Ricers." alt="Typing Animation" />
 </div>
 
 ---
 
-Saya adalah seorang pengembang yang antusias dengan ketertarikan luas pada **Fullstack Web Development**, **Machine Learning**, dan **Network Infrastructure**. Saat ini, saya sedang menempuh studi Teknik Informatika di Universitas Putera Batam. Saya sangat menikmati proses membangun aplikasi yang kompleks, mulai dari sistem manajemen jaringan, *Point of Sale* (POS), hingga model prediksi berbasis AI.
+### 👾 User Profile Data
+Saya adalah mahasiswa Teknik Informatika di Universitas Putera Batam yang berfokus pada pengembangan perangkat lunak modern dan infrastruktur jaringan. Saya memiliki ketertarikan mendalam dalam merancang sistem yang efisien, mulai dari antarmuka web yang responsif, pengelolaan data dengan Machine Learning, hingga konfigurasi jaringan dan kustomisasi lingkungan Linux. 
 
-### 👨‍💻 About Me
-- 🎓 Mahasiswa Teknik Informatika di **Universitas Putera Batam**.
-- 🐧 Penggemar ekosistem **Linux** dan eksplorasi *open-source*.
-- 🎮 Tertarik dengan dunia *Game Dev* menggunakan **Godot Engine**.
-- 🤖 Memiliki pengalaman dalam merancang dan membuat **Discord Bots**.
-- 🌐 Suka mengulik konfigurasi jaringan (Cisco/Huawei/MikroTik) di waktu luang.
-
----
-
-### 🔭 What I'm Currently Working On
-* 🌱 Mengembangkan **Tokoku**, sebuah *Point of Sale System* modern menggunakan Next.js.
-* ✈️ Membangun **Waiz Tour and Travel**, platform *ticketing* dan perjalanan wisata.
-* 📡 Mengembangkan **Fedora Radius**, aplikasi manajemen *server* RADIUS.
-* 🧠 Melakukan riset implementasi **Support Vector Machine (SVM)** untuk prediksi kesehatan (*Heart Failure Prediction*).
-* 🖥️ Bereksperimen dengan aplikasi *desktop* menggunakan **PyQt6** dan **Visual Basic**.
+- 🔭 **Current Operations:** Mengembangkan **Tokoku** (Sistem POS), **Fedora Radius** (Manajemen Layanan Jaringan), dan infrastruktur web untuk **Waiz Tour and Travel**.
+- 🌱 **Learning Modules:** Terus mendalami ekosistem *Machine Learning* (SVM, K-Means) dan eksplorasi *game development*.
+- 🐧 **Environment:** Bangga menggunakan CachyOS dengan *window manager* Hyprland.
+- ⚡ **Fun fact:** Selain *coding* aplikasi bisnis, saya juga suka meracik bot Discord dan bereksperimen dengan *rice* desktop Linux.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Arsenal
 
-**Languages & Scripting**<br/>
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![GDScript](https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
-![VB.NET](https://img.shields.io/badge/Visual_Basic_.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+**Web & Desktop Development**
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="VB.NET" />
+  <img src="https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PyQt" />
+</p>
 
-**Web Development**<br/>
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+**Data, AI & Scripting**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot Engine" />
+</p>
 
-**Data Science & Machine Learning**<br/>
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
-
-**Network & Infrastructure**<br/>
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![MikroTik](https://img.shields.io/badge/MikroTik-CD3035?style=for-the-badge&logo=MikroTik&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**Infrastructure & OS**
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+  <img src="https://img.shields.io/badge/MikroTik-222222?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Telemetry
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stuck-w-yu&show_icons=true&theme=radical&count_private=true" height="180" alt="stuck-w-yu's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stuck-w-yu&layout=compact&theme=radical&hide=html,css" height="180" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stuck-w-yu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stuck-w-yu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
 
-### 📫 Let's Connect!
-<div align="center">
-  <a href="https://instagram.com/stuckw.yu_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+### 📡 Establish Connection
+
+<p align="center">
+  <a href="mailto:email-kamu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</div>
+  <a href="https://linkedin.com/in/username-linkedin-kamu">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+<p align="center">
+  <i>"Writing code, breaking systems, and fixing them up again."</i>
+</p>
