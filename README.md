@@ -1,65 +1,56 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Wahyu%20(Yu)%20Firmansyah&fontSize=45&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Architecting%20the%20Digital%20Future&descAlignY=60&descAlign=50" width="100%" />
-
 <div align="center">
-  <i>"Engineering intelligent systems, seamless web experiences, and robust infrastructures."</i>
+  <h1 align="center">WAHYU FIRMANSYAH <span style="color:#00e5ff;">[ YU ]</span></h1>
+  <p align="center">
+    <i>Informatics Engineering Student @ Universitas Putera Batam</i><br>
+    <b>Software Architecture | Machine Learning | Network Infrastructure</b>
+  </p>
 </div>
 
----
+<br>
 
-### 💠 System Overview
+> *"Building the architecture of tomorrow, from intelligent algorithms to scalable networks."*
 
-Hello! I'm an Informatics Engineering student passionate about building scalable software and intelligent data systems. My expertise bridges the gap between modern application development, machine learning algorithms, and deep-level network configuration. 
+<br>
 
-Whether I'm designing high-performance interfaces, configuring custom Linux environments, or training predictive models, my goal is to write clean, efficient, and future-proof code.
+### ▫️ SYSTEM STATUS & OBJECTIVES
+Currently deploying logic and infrastructure across multiple domains:
 
-### 🚀 Active Missions
+* **[Web & Systems]** Developing **Tokoku** (Next.js POS system) and crafting the digital platform for **Waiz Tour and Travel**.
+* **[Networking]** Engineering **Fedora Radius**, a robust application for comprehensive RADIUS service management.
+* **[AI & Data]** Researching and implementing predictive models utilizing Support Vector Machines (SVM) and K-Means Clustering.
+* **[Environment]** Optimizing daily workflows within CachyOS (Hyprland), experimenting with Godot Engine, and automating tasks via custom Discord bots.
 
-- **[Tokoku]** — Architecting a modern, Next.js-powered Point of Sale (POS) system for business efficiency.
-- **[Fedora Radius]** — Engineering a robust RADIUS service management application for network administration.
-- **[Waiz Tour and Travel]** — Developing a seamless digital booking experience and web presence.
-- **[Lab & R&D]** — Experimenting with Godot Engine for interactive media, developing custom Discord bots, and optimizing CachyOS/Hyprland workspaces.
+<br>
 
----
-
-### ⚙️ Technology Matrix
-
-**🌐 Web & Desktop Architecture**
-<br/>
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
-![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=flat-square&logo=qt&logoColor=white)
-
-**🧠 Data Science & Machine Learning**
-<br/>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-**🖥️ Infrastructure, Networks & Media**
-<br/>
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![MikroTik](https://img.shields.io/badge/MikroTik-222222?style=flat-square&logo=mikrotik&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot_Engine-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
-
----
-
-### 📈 Telemetry & Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stuck-w-yu&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00FF99&icon_color=00FF99&text_color=ffffff" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stuck-w-yu&theme=synthwave&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99&currStreakNum=ffffff" alt="GitHub Streak" width="48%" />
-</p>
-
-<br/>
+### ▫️ CORE TECHNOLOGIES
+*Tech stack optimized for current operations:*
 
 <div align="center">
-  <a href="mailto:wahyufirmansyah@fedoraweb.site">
-    <img src="https://img.shields.io/badge/Initiate_Contact-00FF99?style=for-the-badge&logo=minutemailer&logoColor=black" alt="Email" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,tailwind,laravel,python,dotnet,qt&theme=dark" />
   </a>
-  <a href="https://www.linkedin.com/in/wahyu-firmansyah-373ba6321?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-    <img src="https://img.shields.io/badge/Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=scikitlearn,linux,bash,git,github,discord,godot&theme=dark" />
+  </a>
+</div>
+
+<br>
+
+### ▫️ DATA METRICS
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=stuck-w-yu&theme=transparent&hide_border=true&show_icons=true&title_color=00e5ff&text_color=a9b1d6&icon_color=00e5ff" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stuck-w-yu&theme=transparent&hide_border=true&title_color=00e5ff&text_color=a9b1d6&layout=compact" alt="Top Languages" width="48%" />
+</div>
+
+<br>
+
+### ▫️ ESTABLISH SECURE LINK
+<div align="center">
+  <a href="mailto:wahyufirmansyah@fedoraweb.site">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00e5ff" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/wahyu-firmansyah">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00e5ff" alt="LinkedIn" />
   </a>
 </div>
