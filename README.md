@@ -14,13 +14,6 @@
 
 Currently pursuing Informatics Engineering at **Universitas Putera Batam**, I specialize in building high-performance solutions across the entire technical stack. My workflow seamlessly integrates the elegance of modern web frameworks, the analytical power of machine learning, and the reliability of deep-level network infrastructure.
 
-### 🔄 Active Systems
-* **[ E-Commerce ]** Architecting **Tokoku**, a fluid and responsive Next.js Point of Sale (POS) ecosystem.
-* **[ Infrastructure ]** Engineering **Fedora Radius**, a highly stable RADIUS service management platform.
-* **[ Digital Presence ]** Crafting modern, seamless web experiences for **Waiz Tour and Travel**.
-* **[ Intelligence ]** Researching SVM & K-Means Clustering for predictive data models.
-* **[ Environment ]** Customizing **CachyOS (Hyprland)** for a smooth workflow and developing automation bots via Discord.
-
 <br>
 
 ### 🧠 Technology Nodes
@@ -50,7 +43,7 @@ Currently pursuing Informatics Engineering at **Universitas Putera Batam**, I sp
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=80&section=footer" width="100%" alt="Footer Wave" />
   <br><br>
-  <a href="mailto:email-kamu@gmail.com">
+  <a href="mailto:wahyufirmansyah@fedoraweb.site">
     <img src="https://img.shields.io/badge/Initiate_Contact-00FFFF?style=for-the-badge&logo=minutemailer&logoColor=black" alt="Email" />
   </a>
 </div>
