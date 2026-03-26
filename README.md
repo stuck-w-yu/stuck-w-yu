@@ -1,63 +1,56 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0b0f19:00e5ff&height=200&section=header&text=WAHYU_FIRMANSYAH&fontSize=45&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=System_Architect_%7C_Data_Scientist_%7C_Network_Engineer&descAlignY=62&descSize=16" width="100%" alt="Header Banner" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=500&size=20&pause=2000&color=00e5ff&center=true&vCenter=true&width=800&lines=Initializing+Quantum+Workspace...;Compiling+Next.js+%26+Laravel+Ecosystems...;Training+SVM+%26+K-Means+Models...;Routing+Cisco+%26+MikroTik+Networks...;Secure+Connection+Established." alt="Typing Effect" />
-</div>
-
----
-
-### ⎔ CORE DIRECTIVES
-> *"Translating complex logic into elegant, high-performance architecture."*
-
-I am an Informatics Engineering student focused on building robust digital infrastructures. My work spans across developing seamless user interfaces, training predictive machine learning models, and configuring deep-level network protocols. Operating primarily from my customized **CachyOS** environment, I build tools that bridge the gap between software and system administration.
-
-- 🔹 **Active Node 01:** Engineering **Tokoku** (Next.js POS Ecosystem).
-- 🔹 **Active Node 02:** Architecting **Fedora Radius** for advanced network management.
-- 🔹 **Active Node 03:** Deploying a seamless digital presence for **Waiz Tour and Travel**.
-
----
-
-### ⎔ TECH STACK MATRIX
-
-<div align="center">
-  <p><i>Core technologies utilized in current deployments:</i></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,tailwind,laravel,python,scikitlearn,pandas,godot&theme=dark" alt="Dev Stack" />
-  </a>
-  <br><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,cisco,mikrotik,mysql,git,github,vscode&theme=dark" alt="Infra Stack" />
-  </a>
-</div>
-
----
-
-### ⎔ ACTIVITY TOPOLOGY
-*Real-time contribution matrix parsing.*
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stuck-w-yu/stuck-w-yu/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stuck-w-yu/stuck-w-yu/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/stuck-w-yu/stuck-w-yu/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
-### ⎔ SYSTEM TELEMETRY
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stuck-w-yu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stuck-w-yu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00e5ff&text_color=c9d1d9" height="165" alt="Top Languages" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Wahyu%20Firmansyah&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=%5B%20Software%20Engineer%20%7C%20Network%20Architect%20%7C%20Linux%20Enthusiast%20%5D&descAlignY=55&descSize=16" width="100%" alt="Header" />
 </div>
 
 <br>
 
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&size=22&pause=2500&color=00FFFF&center=true&vCenter=true&width=700&lines=Crafting+Seamless+Digital+Experiences;Optimizing+Intelligent+Data+Systems;Architecting+Robust+Network+Infrastructure" alt="Smooth Typing" />
+</div>
+
+<br>
+
+### 💠 Executive Summary
+
+Currently pursuing Informatics Engineering at **Universitas Putera Batam**, I specialize in building high-performance solutions across the entire technical stack. My workflow seamlessly integrates the elegance of modern web frameworks, the analytical power of machine learning, and the reliability of deep-level network infrastructure.
+
+### 🔄 Active Systems
+* **[ E-Commerce ]** Architecting **Tokoku**, a fluid and responsive Next.js Point of Sale (POS) ecosystem.
+* **[ Infrastructure ]** Engineering **Fedora Radius**, a highly stable RADIUS service management platform.
+* **[ Digital Presence ]** Crafting modern, seamless web experiences for **Waiz Tour and Travel**.
+* **[ Intelligence ]** Researching SVM & K-Means Clustering for predictive data models.
+* **[ Environment ]** Customizing **CachyOS (Hyprland)** for a smooth workflow and developing automation bots via Discord.
+
+<br>
+
+### 🧠 Technology Nodes
+<div align="center">
+  <p><i>Technologies synchronized for current operations:</i></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,tailwind,laravel,python,scikitlearn,pandas,godot&theme=dark&perline=8" alt="Tech Stack 1" />
+  </a>
+  <br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,bash,cisco,mysql,git,github,discord,vscode&theme=dark&perline=8" alt="Tech Stack 2" />
+  </a>
+</div>
+
+<br>
+
+### 📈 Dynamic Analytics
+*Real-time telemetry integrating seamlessly with your environment:*
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=stuck-w-yu&show_icons=true&theme=transparent&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=c9d1d9&bg_color=00000000" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stuck-w-yu&theme=transparent&hide_border=true&title_color=00FFFF&text_color=c9d1d9&icon_color=00FFFF&ring=00FFFF&fire=00FFFF" width="48%" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=80&section=footer" width="100%" alt="Footer Wave" />
+  <br><br>
   <a href="mailto:email-kamu@gmail.com">
-    <img src="https://img.shields.io/badge/Ping_Me-00e5ff?style=for-the-badge&logo=minutemailer&logoColor=black" alt="Email" />
+    <img src="https://img.shields.io/badge/Initiate_Contact-00FFFF?style=for-the-badge&logo=minutemailer&logoColor=black" alt="Email" />
   </a>
 </div>
