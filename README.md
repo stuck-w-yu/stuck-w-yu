@@ -1,49 +1,57 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Wahyu%20Firmansyah&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=%5B%20Software%20Engineer%20%7C%20Network%20Architect%20%7C%20Linux%20Enthusiast%20%5D&descAlignY=55&descSize=16" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=WAHYU%20FIRMANSYAH&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=%E2%8B%84%20Software%20Engineer%20%7C%20Network%20Architect%20%7C%20Linux%20Enthusiast%20%E2%8B%84&descAlignY=55&descSize=16" width="100%" alt="Header" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&size=22&pause=2500&color=00FFFF&center=true&vCenter=true&width=700&lines=Crafting+Seamless+Digital+Experiences;Optimizing+Intelligent+Data+Systems;Architecting+Robust+Network+Infrastructure" alt="Smooth Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=500&size=22&pause=3000&color=00e5ff&center=true&vCenter=true&width=700&lines=Crafting+Seamless+POS+Ecosystems;Architecting+Robust+Network+Infrastructures;Training+Predictive+SVM+%26+K-Means+Models;Operational+Node+Initiated." alt="Smooth Typing" />
 </div>
 
 <br>
 
-### 💠 Executive Summary
+### ⎔ CORE DIRECTIVES
+> *"Bridging the gap between software development, intelligent data analytics, and robust system infrastructure."*
 
-Currently pursuing Informatics Engineering at **Universitas Putera Batam**, I specialize in building high-performance solutions across the entire technical stack. My workflow seamlessly integrates the elegance of modern web frameworks, the analytical power of machine learning, and the reliability of deep-level network infrastructure.
+I am an Informatics Engineering student focused on building high-performance, scalable solutions. Currently specializing in fullstack web architecture, data-driven machine learning models, and complex network configuration. My workflow emphasizes efficiency, automation, and seamless integration, operating from a customized **Linux** environment.
+
+### ⎔ ACTIVE OPERATIONS
+- **[ System Architecture ]** Developing **Tokoku**, a fluid Next.js Point of Sale system.
+- **[ Network Engineering ]** Engineering **Fedora Radius** for service management.
+- **[ Web Presence ]** Crafting the modern digital platform for **Waiz Tour and Travel**.
 
 <br>
 
-### 🧠 Technology Nodes
+### ⎔ TECH STACK MATRIX
+*Core technologies optimized for current deployments:*
+
 <div align="center">
-  <p><i>Technologies synchronized for current operations:</i></p>
+  <p><i>Web, Software & Data Science</i></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,tailwind,laravel,python,scikitlearn,pandas,godot&theme=dark&perline=8" alt="Tech Stack 1" />
+    <img src="https://skillicons.dev/icons?i=nextjs,tailwind,laravel,dotnet,qt,python,scikitlearn,pandas&theme=dark" alt="Stack 1" />
   </a>
   <br><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,cisco,mysql,git,github,discord,vscode&theme=dark&perline=8" alt="Tech Stack 2" />
+  <p><i>Infrastructure, OS & Dev Tools</i></p>
+  <a href="https://skillicons.dev)
+    <img src="https://skillicons.dev/icons?i=linux,bash,cisco,mikrotik,mysql,git,github,vscode&theme=dark" alt="Stack 2" />
   </a>
 </div>
 
 <br>
 
-### 📈 Dynamic Analytics
-*Real-time telemetry integrating seamlessly with your environment:*
+### ⎔ SYSTEM TELEMETRY
+*Real-time metrics parsed from the GitHub API, styled for seamless integration:*
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stuck-w-yu&show_icons=true&theme=transparent&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=c9d1d9&bg_color=00000000" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stuck-w-yu&theme=transparent&hide_border=true&title_color=00FFFF&text_color=c9d1d9&icon_color=00FFFF&ring=00FFFF&fire=00FFFF" width="48%" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=stuck-w-yu&show_icons=true&theme=transparent&hide_border=true&title_color=00e5ff&text_color=c9d1d9&icon_color=00e5ff" height="180em" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stuck-w-yu&layout=compact&theme=transparent&hide_border=true&title_color=00e5ff&text_color=c9d1d9" height="180em" alt="Top Languages" />
+</p>
 
 <br>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=80&section=footer" width="100%" alt="Footer Wave" />
-  <br><br>
-  <a href="mailto:wahyufirmansyah@fedoraweb.site">
-    <img src="https://img.shields.io/badge/Initiate_Contact-00FFFF?style=for-the-badge&logo=minutemailer&logoColor=black" alt="Email" />
+---
+<p align="center">
+  <a href="mailto:email-kamu@gmail.com">
+    <img src="https://img.shields.io/badge/Initiate_Contact-00e5ff?style=for-the-badge&logo=minutemailer&logoColor=black" alt="Email" />
   </a>
-</div>
+</p>
