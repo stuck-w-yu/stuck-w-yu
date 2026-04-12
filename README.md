@@ -15,9 +15,10 @@
 Currently pursuing Informatics Engineering at **Universitas Putera Batam**, I specialize in building high-performance solutions across the entire technical stack. My workflow seamlessly integrates the elegance of modern web frameworks, the analytical power of machine learning, and the reliability of deep-level network infrastructure.
 
 ### 🔄 Active Systems
-* **[ Digital Presence ]** Crafting modern, seamless web experiences for **Waiz Tour and Travel**.
-* **[ Intelligence ]** Researching SVM & K-Means Clustering for predictive data models.
-* **[ Environment ]** Developing automation bots via Discord.
+* **[ Digital Ecosystem ]** Building **Tokoku**, a high-performance Next.js Point-of-Sale (POS) system, and crafting a modern web presence for **Waiz Tour and Travel**.
+* **[ Network Infrastructure ]** Developing **Fedora Radius** for advanced RADIUS service management and architecting reliable routing systems.
+* **[ Intelligence & Automation ]** Researching SVM & K-Means Clustering for predictive data models and developing custom automation bots via Discord.
+* **[ Environment Workspace ]** Optimizing and customizing **CachyOS** with Hyprland and Conky for a peak-performance daily driver.
 
 <br>
 
@@ -25,11 +26,11 @@ Currently pursuing Informatics Engineering at **Universitas Putera Batam**, I sp
 <div align="center">
   <p><i>Technologies synchronized for current operations:</i></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,tailwind,laravel,python,scikitlearn,pandas,godot&theme=dark&perline=8" alt="Tech Stack 1" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,laravel,python,scikitlearn,pandas,godot&theme=dark&perline=8" alt="Tech Stack 1" />
   </a>
   <br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,cisco,mysql,git,github,discord,vscode&theme=dark&perline=8" alt="Tech Stack 2" />
+    <img src="https://skillicons.dev/icons?i=linux,arch,bash,mysql,git,github,discord,dotnet&theme=dark&perline=8" alt="Tech Stack 2" />
   </a>
 </div>
 
@@ -48,7 +49,7 @@ Currently pursuing Informatics Engineering at **Universitas Putera Batam**, I sp
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=80&section=footer" width="100%" alt="Footer Wave" />
   <br><br>
-  <a href="mailto:email-kamu@gmail.com">
+  <a href="mailto:wahyufirmansyah@fedoraweb.site">
     <img src="https://img.shields.io/badge/Initiate_Contact-00FFFF?style=for-the-badge&logo=minutemailer&logoColor=black" alt="Email" />
   </a>
 </div>
