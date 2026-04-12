@@ -40,8 +40,8 @@ Currently pursuing Informatics Engineering at **Universitas Putera Batam**, I sp
 *Real-time telemetry integrating seamlessly with your environment:*
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stuck-w-yu&show_icons=true&theme=transparent&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=c9d1d9&bg_color=00000000" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stuck-w-yu&theme=transparent&hide_border=true&title_color=00FFFF&text_color=c9d1d9&icon_color=00FFFF&ring=00FFFF&fire=00FFFF" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=stuck-w-yu&show_icons=true&hide_border=true&hide_bg=true&title_color=00FFFF&icon_color=00FFFF&text_color=c9d1d9&v=1" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stuck-w-yu&theme=transparent&hide_border=true&title_color=00FFFF&text_color=c9d1d9&icon_color=00FFFF&ring=00FFFF&fire=00FFFF&v=1" width="48%" alt="GitHub Streak" />
 </div>
 
 <br>
