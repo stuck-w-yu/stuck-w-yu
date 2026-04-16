@@ -5,43 +5,53 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&size=22&pause=2500&color=00FFFF&center=true&vCenter=true&width=700&lines=Crafting+Seamless+Digital+Experiences;Optimizing+Intelligent+Data+Systems;Architecting+Robust+Network+Infrastructure" alt="Smooth Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&size=22&pause=2500&color=00FFFF&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications;Architecting+Robust+Networks;Exploring+Machine+Learning" alt="Smooth Typing" />
 </div>
 
 <br>
 
-### 💠 Executive Summary
+### 👨‍💻 About Me
 
-Currently pursuing Informatics Engineering at **Universitas Putera Batam**, I specialize in building high-performance solutions across the entire technical stack. My workflow seamlessly integrates the elegance of modern web frameworks, the analytical power of machine learning, and the reliability of deep-level network infrastructure.
+Currently pursuing an Informatics Engineering degree at **Universitas Putera Batam**, I am a Software Engineer who specializes in building high-performance solutions across the entire technical stack. My work bridges the gap between modern web development, data-driven machine learning, and reliable network infrastructure. 
 
-### 🔄 Active Systems
-* **[ Digital Ecosystem ]** Building **Tokoku**, a high-performance Next.js Point-of-Sale (POS) system, and crafting a modern web presence for **Waiz Tour and Travel**.
-* **[ Network Infrastructure ]** Developing **Fedora Radius** for advanced RADIUS service management and architecting reliable routing systems.
-* **[ Intelligence & Automation ]** Researching SVM & K-Means Clustering for predictive data models and developing custom automation bots via Discord.
-* **[ Environment Workspace ]** Optimizing and customizing **CachyOS** with Hyprland and Conky for a peak-performance daily driver.
+### 🚀 Current Focus & Projects
+* **Web Development:** Building **Tokoku**, a high-performance Point-of-Sale (POS) system utilizing Next.js, and crafting a modern web platform for **Waiz Tour and Travel**.
+* **Network Infrastructure:** Developing **Fedora Radius** for advanced RADIUS service management and architecting reliable routing systems.
+* **AI & Automation:** Researching Machine Learning models (SVM & K-Means Clustering) using Python, and developing custom automation bots for Discord.
+* **Workspace Optimization:** Continuously customizing my daily-driver Linux environment (CachyOS with Hyprland and Conky) for peak development performance.
 
 <br>
 
-### 🧠 Technology Nodes
+### 💻 Technical Arsenal
+
 <div align="center">
-  <p><i>Technologies synchronized for current operations:</i></p>
+  <p><i>Technologies and tools I work with:</i></p>
+  
+  <b>Languages & Data</b><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,laravel,python,scikitlearn,pandas,godot&theme=dark&perline=8" alt="Tech Stack 1" />
+    <img src="https://skillicons.dev/icons?i=python,scikitlearn,pandas,mysql,bash&theme=dark" alt="Languages & Data" />
   </a>
   <br><br>
+  
+  <b>Web & Desktop Frameworks</b><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,arch,bash,mysql,git,github,discord,dotnet&theme=dark&perline=8" alt="Tech Stack 2" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,laravel,dotnet&theme=dark" alt="Frameworks" />
+  </a>
+  <br><br>
+
+  <b>Tools, OS & Others</b><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,arch,git,github,discord,godot&theme=dark" alt="Tools & OS" />
   </a>
 </div>
 
 <br>
 
-### 📈 Dynamic Analytics
-*Real-time telemetry integrating seamlessly with your environment:*
+### 📈 GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stuck-w-yu&show_icons=true&hide_border=true&hide_bg=true&title_color=00FFFF&icon_color=00FFFF&text_color=c9d1d9&v=1" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stuck-w-yu&theme=transparent&hide_border=true&title_color=00FFFF&text_color=c9d1d9&icon_color=00FFFF&ring=00FFFF&fire=00FFFF&v=1" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=stuck-w-yu&show_icons=true&hide_border=true&hide_bg=true&title_color=00FFFF&icon_color=00FFFF&text_color=c9d1d9&v=1" width="48%" alt="Wahyu's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stuck-w-yu&theme=transparent&hide_border=true&title_color=00FFFF&text_color=c9d1d9&icon_color=00FFFF&ring=00FFFF&fire=00FFFF&v=1" width="48%" alt="Wahyu's GitHub Streak" />
 </div>
 
 <br>
@@ -50,6 +60,6 @@ Currently pursuing Informatics Engineering at **Universitas Putera Batam**, I sp
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=80&section=footer" width="100%" alt="Footer Wave" />
   <br><br>
   <a href="mailto:wahyufirmansyah@fedoraweb.site">
-    <img src="https://img.shields.io/badge/Initiate_Contact-00FFFF?style=for-the-badge&logo=minutemailer&logoColor=black" alt="Email" />
+    <img src="https://img.shields.io/badge/Let's_Connect-00FFFF?style=for-the-badge&logo=minutemailer&logoColor=black" alt="Email" />
   </a>
 </div>
