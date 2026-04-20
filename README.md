@@ -16,7 +16,7 @@
 
 <br>
 
-### 👨‍💻 About Me
+### 👨‍💻 About Me.
 
 Currently pursuing an Informatics Engineering degree at **Universitas Putera Batam**, I bridge the gap between modern web development, data-driven machine learning, and deep-level network infrastructure. When I'm not coding, I'm likely customizing my **CachyOS** environment or experimenting with Discord automation.
 
