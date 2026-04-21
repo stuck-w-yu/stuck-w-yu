@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="mailto:wahyufirmansyah@fedoraweb.site"><img src="https://img.shields.io/badge/Email-00FFFF?style=for-the-badge&logo=minutemailer&logoColor=black" alt="Email" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/wahyu-firmansyah-373ba6321?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://wahyufirmansyah.my.id"><img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=Web&logoColor=00FFFF" alt="Portfolio" /></a>
 </div>
 
