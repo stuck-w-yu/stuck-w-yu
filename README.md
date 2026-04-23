@@ -26,7 +26,7 @@ Currently pursuing an Informatics Engineering degree at **Universitas Putera Bat
 
 <br>
 
-### 🔥 Highlighted Projects
+### 🔥 Highlighted Projects.
 
 <div align="center">
   <a href="https://github.com/stuck-w-yu/Tokoku">
@@ -39,7 +39,7 @@ Currently pursuing an Informatics Engineering degree at **Universitas Putera Bat
 
 <br>
 
-### 💻 Technical Arsenal
+### 💻 Technical Arsenal.
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -53,7 +53,7 @@ Currently pursuing an Informatics Engineering degree at **Universitas Putera Bat
 
 <br>
 
-### 📈 Dynamic Analytics
+### 📈 Dynamic Analytics.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stuck-w-yu&layout=compact&theme=transparent&hide_border=true&title_color=00FFFF&text_color=c9d1d9" width="32%" alt="Top Languages" />
