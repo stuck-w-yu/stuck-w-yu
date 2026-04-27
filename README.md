@@ -20,7 +20,8 @@
 .
 Currently pursuing an Informatics Engineering degree at **Universitas Putera Batam**, I bridge the gap between modern web development, data-driven machine learning, and deep-level network infrastructure. When I'm not coding, I'm likely customizing my **CachyOS** environment or experimenting with Discord automation.
 
-- 🌱 **Currently Exploring:** Deepening my knowledge in SVM, K-Means Clustering, and Data Science via Python.
+- 🌱 **Currently Exploring:**
+- Deepening my knowledge in SVM, K-Means Clustering, and Data Science via Python.
 - 💬 **Ask Me About:** Next.js, Network Routing, Linux Customization, or all about tech.
 - ⚡ **Fun Fact:** I believe a perfectly configured Hyprland setup is the key to ultimate productivity.
 
