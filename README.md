@@ -34,7 +34,7 @@ Currently pursuing an Informatics Engineering degree at **Universitas Putera Bat
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=stuck-w-yu&repo=Tokoku&theme=transparent&hide_border=true&title_color=00FFFF&text_color=c9d1d9&icon_color=00FFFF" width="48%" alt="Tokoku Repo" />
   </a>
   <a href="https://github.com/stuck-w-yu/Fedora-Radius">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stuck-w-yu&repo=Fedora-Radius&theme=transparent&hide_border=true&title_color=00FFFF&text_color=c9d1d9&icon_color=00FFFF" width="48%" alt="Fedora Radius Repo" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stuck-w-yu&repo=Fedora-Radius&theme=transparent&hide_border=true&title_color=00FFFF&text_color=c9d1d9&icon_color=00FFFF" width="48%" alt="Fedora Radius Repo"/>
   </a>
 </div>
 
