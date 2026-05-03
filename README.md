@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&size=22&pause=2500&color=00FFFF&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications;Architecting+Robust+Networks;Exploring+Machine+Learning" alt="Smooth Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&size=22&pause=2500&color=00FFFF&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications;Architecting+Robust+Networks;Exploring+Machine+Learning" alt="Smooth Typing"/>
 </div>
 
 <div align="center">
