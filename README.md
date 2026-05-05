@@ -82,5 +82,5 @@ When I'm not writing code for clients, I'm usually optimizing my **CachyOS** + *
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=80&section=footer" width="100%" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=80&section=footer" width="100%" alt="Footer Wave"/>
 </div>
