@@ -59,7 +59,7 @@ When I'm not writing code for clients, I'm usually optimizing my **CachyOS** + *
   <br><br>
   <p><strong>Infrastructure, Tools & Environment</strong></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,arch,discord,nginx,git,github,vscode,figma&theme=dark" alt="Tools & Environment" />
+    <img src="https://skillicons.dev/icons?i=linux,arch,discord,nginx,git,github,vscode,figma&theme=dark" alt="Tools & Environment"/>
   </a>
 </div>
 
