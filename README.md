@@ -49,7 +49,7 @@ When I'm not writing code for clients, I'm usually optimizing my **CachyOS** + *
 <div align="center">
   <p><strong>Web Development & Frameworks</strong></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,laravel,dotnet,supabase,mysql,prisma&theme=dark" alt="Web Stack" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,laravel,dotnet,supabase,mysql,prisma&theme=dark" alt="Web Stack"/>
   </a>
   <br><br>
   <p><strong>Programming Languages & AI/ML</strong></p>
