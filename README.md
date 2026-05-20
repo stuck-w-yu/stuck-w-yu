@@ -76,7 +76,7 @@ When I'm not writing code for clients, I'm usually optimizing my **CachyOS** + *
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=stuck-w-yu&color=00FFFF&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=stuck-w-yu&color=00FFFF&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </div>
 
 <br>
