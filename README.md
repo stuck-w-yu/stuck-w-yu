@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Wahyu%20Firmansyah&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=%5B%20Freelance%20Full-stack%20Developer%20%7C%20Network%20Architect%20%7C%20Linux%20Enthusiast%20%5D&descAlignY=55&descSize=16" width="100%" alt="Header"/>
 </div>
 <br>
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&size=22&pause=2500&color=00FFFF&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications;Architecting+Robust+Networks;Exploring+Machine+Learning;Practicing+AI-Assisted+Vibe+Coding" alt="Smooth Typing"/>
 </div>
