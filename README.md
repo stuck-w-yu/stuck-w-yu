@@ -5,7 +5,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&size=22&pause=2500&color=00FFFF&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications;Architecting+Robust+Networks;Exploring+Machine+Learning;Practicing+AI-Assisted+Vibe+Coding" alt="Smooth Typing"/>
 </div>
-
 <div align="center">
   <a href="mailto:wahyufirmansyah@fedoraweb.site"><img src="https://img.shields.io/badge/Email-00FFFF?style=for-the-badge&logo=minutemailer&logoColor=black" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/wahyu-firmansyah-373ba6321"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
