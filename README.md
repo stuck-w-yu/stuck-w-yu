@@ -10,7 +10,6 @@
   <a href="https://www.linkedin.com/in/wahyu-firmansyah-373ba6321"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://wahyufirmansyah.my.id"><img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=Web&logoColor=00FFFF" alt="Portfolio"/></a>
 </div>
-
 <br>
 
 ### 👨‍💻 About Me
