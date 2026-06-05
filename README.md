@@ -11,7 +11,6 @@
   <a href="https://wahyufirmansyah.my.id"><img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=Web&logoColor=00FFFF" alt="Portfolio"/></a>
 </div>
 <br>
-
 ### 👨‍💻 About Me
 
 I am a versatile Software Engineer, Network Architect, and the Founder of **Fedora Aliansi Digital**. Currently pursuing my degree in Informatics Engineering at **Universitas Putera Batam**, I specialize in bridging the gap between modern web frameworks, deep-level network infrastructure, and data-driven machine learning.
