@@ -23,7 +23,6 @@ When I'm not writing code for clients, I'm usually optimizing my **CachyOS** + *
 - 🌱 **Currently Exploring:** Deepening my knowledge in SVM, K-Means Clustering, and AI-assisted "Vibe Coding" for rapid development.
 - 💬 **Ask Me About:** Next.js/Laravel, Cisco/Huawei Routing, Linux Ricing, or system integration.
 - ⚡ **Fun Fact:** I believe a perfectly configured Arch-based environment is the ultimate key to developer productivity.
-
 <br>
 
 ### 🔥 Highlighted Projects
