@@ -34,7 +34,6 @@ When I'm not writing code for clients, I'm usually optimizing my **CachyOS** + *
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=stuck-w-yu&repo=Fedora-Radius&theme=transparent&hide_border=true&title_color=00FFFF&text_color=c9d1d9&icon_color=00FFFF" width="48%" alt="Fedora Radius Repo"/>
   </a>
 </div>
-
 <br>
 
 ### 💻 Technical Arsenal
