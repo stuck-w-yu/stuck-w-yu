@@ -64,7 +64,6 @@ When I'm not writing code for clients, I'm usually optimizing my **CachyOS** + *
   <img src="https://github-readme-stats.vercel.app/api?username=stuck-w-yu&show_icons=true&hide_border=true&hide_bg=true&title_color=00FFFF&icon_color=00FFFF&text_color=c9d1d9&v=1" width="32%" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=stuck-w-yu&theme=transparent&hide_border=true&title_color=00FFFF&text_color=c9d1d9&icon_color=00FFFF&ring=00FFFF&fire=00FFFF&v=1" width="32%" alt="GitHub Streak"/>
 </div>
-
 <br>
 
 <div align="center">
