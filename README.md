@@ -11,33 +11,20 @@
   <a href="https://wahyufirmansyah.my.id"><img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=Web&logoColor=00FFFF" alt="Portfolio"/></a>
 </div>
 <br>
+
 ### 👨‍💻 About Me
-I am a versatile Software Engineer, Network Architect, and the Founder of **Fedora Aliansi Digital**. Currently pursuing my degree in Informatics Engineering at **Universitas Putera Batam**, I specialize in bridging the gap between modern web frameworks, deep-level network infrastructure, and data-driven machine learning.
+I am a versatile **Software Engineer**, **Network Architect**, and Founder of **Fedora Aliansi Digital**. Currently pursuing my degree in **Informatics Engineering** at **Universitas Putera Batam**, I specialize in bridging modern web frameworks, deep-level network infrastructure, and data-driven machine learning.
 
-When I'm not writing code for clients, I'm usually optimizing my **CachyOS** + **Hyprland** environment or managing Discord automation bots using Python.
+When I'm not coding for clients, I'm optimizing my **CachyOS + Hyprland** environment or managing Discord automation bots using Python.
 
-- 🔭 **Currently Building:** 
-  - **Tokoku:** A high-performance Next.js Point-of-Sale (POS) system.
-  - **Fedora Radius:** An advanced RADIUS management service utilizing WireGuard & Supabase.
-- 🌱 **Currently Exploring:** Deepening my knowledge in SVM, K-Means Clustering, and AI-assisted "Vibe Coding" for rapid development.
-- 💬 **Ask Me About:** Next.js/Laravel, Cisco/Huawei Routing, Linux Ricing, or system integration.
-- ⚡ **Fun Fact:** I believe a perfectly configured Arch-based environment is the ultimate key to developer productivity.
-<br>
-
-### 🔥 Highlighted Projects
-
-<div align="center">
-  <a href="https://github.com/stuck-w-yu/Tokoku">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stuck-w-yu&repo=Tokoku&theme=transparent&hide_border=true&title_color=00FFFF&text_color=c9d1d9&icon_color=00FFFF" width="48%" alt="Tokoku Repo"/>
-  </a>
-  <a href="https://github.com/stuck-w-yu/Fedora-Radius">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stuck-w-yu&repo=Fedora-Radius&theme=transparent&hide_border=true&title_color=00FFFF&text_color=c9d1d9&icon_color=00FFFF" width="48%" alt="Fedora Radius Repo"/>
-  </a>
-</div>
+- 🔭 **Currently Building:**
+  - Website using svelte.js and nuxt with nest.js or go for backend
+- 🌱 **Currently Exploring:** Backend, Cybersecurity, Machine Learning and Network Engineering
+- 💬 **Ask Me About:** Web Developtment.
+- ⚡ **Fun Fact:** I'm currently studied at Putera Batam University
 <br>
 
 ### 💻 Technical Arsenal
-
 <div align="center">
   <p><strong>Web Development & Frameworks</strong></p>
   <a href="https://skillicons.dev">
@@ -54,11 +41,9 @@ When I'm not writing code for clients, I'm usually optimizing my **CachyOS** + *
     <img src="https://skillicons.dev/icons?i=linux,arch,discord,nginx,git,github,vscode,figma&theme=dark" alt="Tools & Environment"/>
   </a>
 </div>
-
 <br>
 
 ### 📈 GitHub Analytics
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stuck-w-yu&layout=compact&theme=transparent&hide_border=true&title_color=00FFFF&text_color=c9d1d9" width="32%" alt="Top Languages"/>
   <img src="https://github-readme-stats.vercel.app/api?username=stuck-w-yu&show_icons=true&hide_border=true&hide_bg=true&title_color=00FFFF&icon_color=00FFFF&text_color=c9d1d9&v=1" width="32%" alt="GitHub Stats"/>
@@ -69,7 +54,6 @@ When I'm not writing code for clients, I'm usually optimizing my **CachyOS** + *
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=stuck-w-yu&color=00FFFF&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </div>
-
 <br>
 
 <div align="center">
