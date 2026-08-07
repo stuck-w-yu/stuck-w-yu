@@ -55,7 +55,6 @@ When I'm not coding for clients, I'm optimizing my **CachyOS + Hyprland** enviro
   <img src="https://komarev.com/ghpvc/?username=stuck-w-yu&color=00FFFF&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </div>
 <br>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=80&section=footer" width="100%" alt="Footer Wave"/>
 </div>
