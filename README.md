@@ -13,7 +13,7 @@
 <br>
 
 ### 👨‍💻 About Me
-I am a versatile **Software Engineer**, **Network Architect**, and Founder of **Fedora Aliansi Digital**. Currently pursuing my degree in **Informatics Engineering** at **Universitas Putera Batam**, I specialize in bridging modern web frameworks, deep-level network infrastructure, and data-driven machine learning.
+I am a versatile **Software Engineer**, **Network Architect**, and Senior Dev of **Fedora Aliansi Digital**. Currently pursuing my degree in **Informatics Engineering** at **Universitas Putera Batam**, I specialize in bridging modern web frameworks, deep-level network infrastructure, and data-driven machine learning.
 
 When I'm not coding for clients, I'm optimizing my **CachyOS + Hyprland** environment or managing Discord automation bots using Python.
 
