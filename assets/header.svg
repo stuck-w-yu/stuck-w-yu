@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 392" width="100%" height="100%" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Wahyu Firmansyah terminal profile card">
+  <title>Wahyu Firmansyah — terminal profile</title>
+  <defs>
+    <linearGradient id="cyberGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00e5ff" />
+      <stop offset="0.3" stop-color="#4facfe" />
+      <stop offset="0.58" stop-color="#7aa2ff" />
+      <stop offset="0.82" stop-color="#3ddc97" />
+      <stop offset="1" stop-color="#00e5ff" />
+      <animate attributeName="x1" values="-0.7;-0.25;-0.7" dur="10s" repeatCount="indefinite" />
+      <animate attributeName="x2" values="0.3;0.85;0.3" dur="10s" repeatCount="indefinite" />
+    </linearGradient>
+
+    <linearGradient id="beamGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#00e5ff" stop-opacity="0" />
+      <stop offset="0.5" stop-color="#00e5ff" stop-opacity="0.07" />
+      <stop offset="1" stop-color="#00e5ff" stop-opacity="0" />
+    </linearGradient>
+
+    <clipPath id="winClip">
+      <rect x="5" y="5" width="840" height="382" rx="12" ry="12" />
+    </clipPath>
+  </defs>
+
+  <style>
+    @keyframes blink {
+      0%, 48% { opacity: 1; }
+      49%, 100% { opacity: 0; }
+    }
+    @keyframes drift {
+      0%, 91%, 100% { transform: translate(0, 0); }
+      92% { transform: translate(-2px, 1px); }
+      93% { transform: translate(2px, -1px); }
+      94% { transform: translate(-1px, 0.5px); }
+      95% { transform: translate(0, 0); }
+    }
+    @keyframes sweep {
+      0% { transform: translateY(-46px); }
+      100% { transform: translateY(392px); }
+    }
+    .ascii, .ui {
+      font-family: "JetBrains Mono", "Fira Code", ui-monospace, "DejaVu Sans Mono", Consolas, monospace;
+      letter-spacing: 0;
+      white-space: pre;
+    }
+    .ascii {
+      font-size: 13.40px;
+      font-weight: 700;
+      fill: url(#cyberGrad);
+    }
+    .ui { font-size: 13.00px; }
+    .cursor { fill: #00e5ff; animation: blink 1.05s steps(1, end) infinite; }
+    .beam { animation: sweep 7s linear infinite; }
+  </style>
+
+  <!-- window body -->
+  <rect x="5" y="5" width="840" height="382" rx="12" ry="12" fill="#080c14" />
+
+  <g clip-path="url(#winClip)">
+    <!-- title bar -->
+    <rect x="5" y="5" width="840" height="33" fill="#0f172a" />
+    <line x1="5" y1="38" x2="845" y2="38" stroke="#1e293b" stroke-width="1.5" />
+
+    <!-- traffic lights -->
+    <circle cx="28" cy="21" r="5.5" fill="#f43f5e" />
+    <circle cx="46" cy="21" r="5.5" fill="#eab308" />
+    <circle cx="64" cy="21" r="5.5" fill="#10b981" />
+
+    <text x="425.0" y="25" text-anchor="middle" class="ui" font-size="11.5" fill="#64748b">wahyu@cachyos-hyprland: ~</text>
+
+    <g class="ui">
+      <!-- shell prompt -->
+      <text x="34" y="70" font-size="13"><tspan fill="#38bdf8" font-weight="700">wahyu@fedora-digital</tspan><tspan fill="#64748b"> in </tspan><tspan fill="#a78bfa">~/core</tspan><tspan fill="#e2e8f0"> $ neofetch --ascii --profile</tspan></text>
+
+      <!-- ascii banner -->
+      <g class="ascii" style="animation: drift 12s ease-in-out infinite;">
+      <text x="34" y="124.0" xml:space="preserve">    _____  _______  _    _    _____   _  __          __          __         __     __  _    _</text>
+      <text x="34" y="144.1" xml:space="preserve">   / ____||__   __|| |  | |  / ____| | |/ /          \ \        / /         \ \   / / | |  | |</text>
+      <text x="34" y="164.2" xml:space="preserve">  | (___     | |   | |  | | | |      | &#x27; /    ______  \ \  /\  / /   ______  \ \_/ /  | |  | |</text>
+      <text x="34" y="184.3" xml:space="preserve">   \___ \    | |   | |  | | | |      |  &lt;    |______|  \ \/  \/ /   |______|  \   /   | |  | |</text>
+      <text x="34" y="204.4" xml:space="preserve">   ____) |   | |   | |__| | | |____  | . \              \  /\  /               | |    | |__| |</text>
+      <text x="34" y="224.5" xml:space="preserve">  |_____/    |_|    \____/   \_____| |_|\_\              \/  \/                |_|     \____/</text>
+      </g>
+
+      <!-- system block -->
+    <text x="34" y="266.5" fill="#64748b">┌─ <tspan fill="#38bdf8" font-weight="700">IDENTITY</tspan>  : <tspan fill="#cbd5e1">Wahyu Firmansyah [stuck-w-yu]</tspan></text>
+    <text x="34" y="289.5" fill="#64748b">├─ <tspan fill="#34d399" font-weight="700">ROLE</tspan>      : <tspan fill="#cbd5e1">Full-stack Developer · Network Infrastructure</tspan></text>
+    <text x="34" y="312.5" fill="#64748b">├─ <tspan fill="#f59e0b" font-weight="700">SYS_ENV</tspan>   : <tspan fill="#cbd5e1">CachyOS · Hyprland · MikroTik · WireGuard</tspan></text>
+    <text x="34" y="335.5" fill="#64748b">└─ <tspan fill="#a78bfa" font-weight="700">MISSION</tspan>   : <tspan fill="#cbd5e1">MCP servers, monitoring &amp; automation</tspan></text>
+
+      <!-- prompt + cursor -->
+      <text x="34" y="362.5" font-size="13"><tspan fill="#38bdf8" font-weight="700">➜</tspan><tspan fill="#e2e8f0"> git commit -m "feat: ship reliable systems" </tspan><tspan class="cursor">█</tspan></text>
+    </g>
+
+    <!-- scan beam -->
+    <rect x="6" y="0" width="838" height="46" fill="url(#beamGrad)" class="beam" />
+  </g>
+
+  <!-- window border -->
+  <rect x="5" y="5" width="840" height="382" rx="12" ry="12" fill="none" stroke="#1e293b" stroke-width="1.5" />
+</svg>

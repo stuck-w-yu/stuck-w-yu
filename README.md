@@ -1,60 +1,58 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Wahyu%20Firmansyah&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=%5B%20Freelance%20Full-stack%20Developer%20%7C%20Network%20Architect%20%7C%20Linux%20Enthusiast%20%5D&descAlignY=55&descSize=16" width="100%" alt="Header"/>
+  <img src="./assets/header.svg" alt="Wahyu Firmansyah — animated terminal profile" width="100%" />
 </div>
-<br>
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&size=22&pause=2500&color=00FFFF&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications;Architecting+Robust+Networks;Exploring+Machine+Learning;Practicing+AI-Assisted+Vibe+Coding" alt="Smooth Typing"/>
-</div>
-<div align="center">
-  <a href="mailto:wahyufirmansyah@fedoraweb.site"><img src="https://img.shields.io/badge/Email-00FFFF?style=for-the-badge&logo=minutemailer&logoColor=black" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/wahyu-firmansyah-373ba6321"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://wahyufirmansyah.my.id"><img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=Web&logoColor=00FFFF" alt="Portfolio"/></a>
-</div>
-<br>
 
-### 👨‍💻 About Me
-I am a versatile **Software Engineer**, **Network Architect**, and Senior Dev of **Fedora Aliansi Digital**. Currently pursuing my degree in **Informatics Engineering** at **Universitas Putera Batam**, I specialize in bridging modern web frameworks, deep-level network infrastructure, and data-driven machine learning.
+<p align="center">
+  <a href="https://wahyufirmansyah.my.id"><img src="https://img.shields.io/badge/wahyufirmansyah.my.id-0b0f19?style=flat-square&logo=firefoxbrowser&logoColor=00e5ff" alt="Website" /></a>
+  <a href="mailto:wahyufirmansyah@fedoraweb.site"><img src="https://img.shields.io/badge/wahyufirmansyah%40fedoraweb.site-0b0f19?style=flat-square&logo=minutemailer&logoColor=00e5ff" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/wahyu-firmansyah-373ba6321"><img src="https://img.shields.io/badge/in/wahyu--firmansyah-0b0f19?style=flat-square&logo=linkedin&logoColor=00e5ff" alt="LinkedIn" /></a>
+</p>
 
-When I'm not coding for clients, I'm optimizing my **CachyOS + Hyprland** environment or managing Discord automation bots using Python.
+Software engineer at **CV. Fedora Aliansi Digital**, Batam. I build web products end to end and keep the network underneath them running — Nuxt/Svelte/Next on the front, Go behind it, MikroTik and WireGuard below that. Currently finishing an Informatics Engineering degree at Universitas Putera Batam.
 
-- 🔭 **Currently Building:**
-  - Website using svelte.js and nuxt with nest.js or go for backend
-- 🌱 **Currently Exploring:** Backend, Cybersecurity, Machine Learning and Network Engineering
-- 💬 **Ask Me About:** Web Developtment.
-- ⚡ **Fun Fact:** I'm currently studied at Putera Batam University
-<br>
+**Focus**
 
-### 💻 Technical Arsenal
-<div align="center">
-  <p><strong>Web Development & Frameworks</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,laravel,dotnet,supabase,mysql,prisma&theme=dark" alt="Web Stack"/>
-  </a>
-  <br><br>
-  <p><strong>Programming Languages & AI/ML</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,scikitlearn,pandas,bash&theme=dark" alt="Languages & AI" />
-  </a>
-  <br><br>
-  <p><strong>Infrastructure, Tools & Environment</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,arch,discord,nginx,git,github,vscode,figma&theme=dark" alt="Tools & Environment"/>
-  </a>
-</div>
-<br>
+- **Web products** — Nuxt, Svelte and Next.js frontends; Go or NestJS services; PostgreSQL and MySQL.
+- **Infrastructure** — MikroTik routing, WireGuard tunnels, Linux servers, and Discord bots that alert when something breaks.
+- **Agent tooling** — MCP servers and automation so AI agents can drive real applications, e.g. [figcraft-mcp](https://github.com/stuck-w-yu/figcraft-mcp).
 
-### 📈 GitHub Analytics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stuck-w-yu&layout=compact&theme=transparent&hide_border=true&title_color=00FFFF&text_color=c9d1d9" width="32%" alt="Top Languages"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=stuck-w-yu&show_icons=true&hide_border=true&hide_bg=true&title_color=00FFFF&icon_color=00FFFF&text_color=c9d1d9&v=1" width="32%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stuck-w-yu&theme=transparent&hide_border=true&title_color=00FFFF&text_color=c9d1d9&icon_color=00FFFF&ring=00FFFF&fire=00FFFF&v=1" width="32%" alt="GitHub Streak"/>
-</div>
-<br>
+---
+
+### Stack
+
+| Area | Tools |
+| :--- | :--- |
+| Languages | Go · TypeScript · JavaScript · Python · SQL |
+| Frontend | Nuxt · Svelte · React · Next.js · Tailwind CSS |
+| Backend | Go (net/http, chi) · NestJS · Laravel · .NET |
+| Data | PostgreSQL · MySQL · Prisma · Supabase |
+| Systems | Linux (Arch / CachyOS) · Hyprland · MikroTik RouterOS · WireGuard · Nginx |
+| AI / ML | scikit-learn · pandas · Model Context Protocol |
+
+---
+
+### Selected work
+
+| Project | What it does | Stack |
+| :--- | :--- | :--- |
+| [**figcraft-mcp**](https://github.com/stuck-w-yu/figcraft-mcp) | MCP server that lets AI agents read and edit a live design canvas | TypeScript |
+| [**QR-Store**](https://github.com/stuck-w-yu/QR-Store) | Self-order POS — guests scan a table QR code and the order lands in the kitchen | Next.js |
+| [**discord-bot-music**](https://github.com/stuck-w-yu/discord-bot-music) | Discord music bot with queues, volume and skip controls | Node.js |
+| [**Ahmad-Nadwy**](https://github.com/stuck-w-yu/Ahmad-Nadwy) | Portfolio site built for a client | Next.js |
+| Fedora-Mail | Custom mail service for FAD clients — private repo | Svelte · Go |
+| Network monitor | MikroTik health checks piped into Discord with on-call alerts — private repo | Python |
+
+---
+
+### GitHub
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=stuck-w-yu&color=00FFFF&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <img src="./profile-summary-card-output/gotham/0-profile-details.svg" alt="Contribution summary" width="100%" />
+  <img src="./profile-summary-card-output/gotham/2-most-commit-language.svg" alt="Languages by commit" width="62%" />
 </div>
-<br>
+
+---
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=80&section=footer" width="100%" alt="Footer Wave"/>
+  <sub>Running CachyOS + Hyprland. Ask me about networks, Go, or why the router is always the problem.</sub>
 </div>
