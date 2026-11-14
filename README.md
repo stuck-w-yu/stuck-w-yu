@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/wahyu-firmansyah-373ba6321"><img src="https://img.shields.io/badge/in/wahyu--firmansyah-0b0f19?style=flat-square&logo=linkedin&logoColor=00e5ff" alt="LinkedIn" /></a>
 </p>
 
-Software engineer at **CV. Fedora Aliansi Digital**, Batam. I build web products end to end and keep the network underneath them running — Nuxt/Svelte/Next on the front, Go behind it, MikroTik and WireGuard below that. Currently finishing an Informatics Engineering degree at Universitas Putera Batam.
+Software engineer at **CV. Fedora Aliansi Digital**, Batam. I build web products end to end and keep the network underneath them running — Nuxt/Svelte/Next on the front, Go behind it, MikroTik and WireGuard below that. Currently study an Informatics Engineering degree at Universitas Putera Batam.
 
 **Focus**
 
